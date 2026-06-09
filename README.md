@@ -1,75 +1,141 @@
-# 👋 Hi, I'm Zainal Nugroho
+<div align="center">
 
-**Business Automation & AI Operations** | Bogor, Indonesia 🇮🇩
+# Zainal Nugroho
 
-[![Website](https://img.shields.io/badge/🌐_Website-zainalnugroho.com-255E63?style=flat-square)](https://zainalnugroho.com)
-[![Email](https://img.shields.io/badge/📧_Email-mail@zainalnugroho.com-EA4335?style=flat-square)](mailto:mail@zainalnugroho.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-zainalnugroho-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zainalnugroho)
+### **I help teams automate workflows & close more deals with AI**
 
----
+[![Available for Work](https://img.shields.io/badge/🟢_Open_to_Work-Available-2EA44F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zainalnugroho)
+[![Website](https://img.shields.io/badge/zainalnugroho.com-Website-255E63?style=for-the-badge)](https://zainalnugroho.com)
 
-## What I Do
-
-I help teams **automate workflows** and **qualify leads faster** using AI tools.
-
-Basically: less manual work, more results.
+</div>
 
 ---
 
-## Proof of Work
+## 📊 Impact by Numbers
 
-| Campaign | Result |
-|----------|--------|
-| 🚗 **Auto Sales (Lampung)** | IDR 350M+ closed sales from 60 leads in 10 weeks (IDR 1.2M ad spend) |
-| 🌍 **Export Deal (India)** | USD 100K kapok export closing through buyer mapping |
-| 📱 **Digital Services** | 120 leads from IDR 120K budget, CPR down to IDR 1,200 (from IDR 8,000) |
+<div align="center">
 
----
+| 🚗 Auto Sales | 🌍 Export Deals | 📱 Lead Gen | 📉 Cost Reduction |
+|:---:|:---:|:---:|:---:|
+| **IDR 350M+** | **USD 100K** | **120 Leads** | **87% CPR ↓** |
+| Closed in 10 weeks | India market | From IDR 120K budget | IDR 8K → 1.2K |
 
-## Tech Stack
-
-**AI & Automation**
-- OpenClaw, Claude, LLM APIs
-- Self-hosted AI agents on VPS
-
-**Marketing**
-- Google Ads, Facebook Ads, TikTok Ads
-- SEMrush, Google Analytics
-
-**Development**
-- Python, JavaScript, TypeScript
-- Linux/VPS, API Integration
-- WordPress
+</div>
 
 ---
 
-## Experience
+## 🎯 What I Can Do For You
 
-**Independent Consulting** (2022 - Present)
-- Business automation & AI workflow design
-- Lead qualification system setup
+<table>
+<tr>
+<td width="50%">
 
-**PT. Heaven Resources Indonesia** (2023 - 2024)
-- Export marketing & buyer mapping
-- WordPress site & email setup
+**🤖 AI Automation**
+- Lead qualification workflows
+- Follow-up automation
+- Support ticket routing
+- Pipeline operations
 
-**NOTCH / Astra Daihatsu** (2022 - 2023)
-- Digital campaign strategy & execution
+</td>
+<td width="50%">
+
+**📈 Growth Operations**
+- Campaign optimization
+- Lead generation systems
+- Cost-per-lead reduction
+- Market research
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🌐 Digital Setup**
+- WordPress sites
+- Business email config
+- SEO optimization
+- API integrations
+
+</td>
+<td>
+
+**🔧 Technical**
+- VPS/Linux server
+- Self-hosted AI tools
+- Python automation
+- Workflow design
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Projects
+## 💼 Featured Projects
 
-### [SEO Autopilot](https://github.com/zainalnugroho/seo-autopilot-skill)
-AI-powered SEO audit tool using MiMo AI
+### [🤖 SEO Autopilot](https://github.com/zainalnugroho/seo-autopilot-skill)
+> AI-powered SEO audit tool using MiMo AI. Analyzes websites, detects issues, generates fixes.
 
-### [Self-Hosted AI Assistant](https://github.com/zainalnugroho)
-OpenClaw + Telegram bot on VPS
+`Python` `AI/ML` `SEO` `API Integration`
 
 ---
 
-## Let's Connect
+### [📊 Personal Report Dashboard](https://github.com/zainalnugroho/Personal-report)
+> HTML dashboard for personal analytics and reporting.
 
-- 🌐 [zainalnugroho.com](https://zainalnugroho.com)
-- 📧 [mail@zainalnugroho.com](mailto:mail@zainalnugroho.com)
-- 💼 [linkedin.com/in/zainalnugroho](https://linkedin.com/in/zainalnugroho)
+`HTML` `CSS` `Analytics`
+
+---
+
+### [🔗 SubShare AI](https://github.com/zainalnugroho/subshare-ai)
+> AI-powered content sharing platform.
+
+`TypeScript` `Vite` `AI`
+
+---
+
+## 🛠️ Tech Stack
+
+```
+AI & Automation    Marketing          Development        Infrastructure
+─────────────     ─────────          ───────────        ───────────────
+OpenClaw          Google Ads         Python             Linux VPS
+Claude/LLMs       Facebook Ads       JavaScript         API Integration
+RPA Tools         TikTok Ads         TypeScript         WordPress
+Workflow Design   SEMrush            Node.js            Git/GitHub
+                  Google Analytics
+```
+
+---
+
+## 💬 How I Work
+
+> *"I don't just build tools—I solve business problems. Every automation I create starts with understanding the bottleneck, then designing a workflow that actually gets used."*
+
+**My approach:**
+1. **Diagnose** - Find the real bottleneck (not just symptoms)
+2. **Design** - Create workflows your team will actually use
+3. **Implement** - Build with tools that scale
+4. **Optimize** - Measure results, iterate fast
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zainalnugroho)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@zainalnugroho.com)
+[![Website](https://img.shields.io/badge/Website-Visit-255E63?style=for-the-badge)](https://zainalnugroho.com)
+
+</div>
+
+---
+
+<div align="center">
+
+**📍 Bogor, Indonesia** | **🌐 Available Globally**
+
+*Building AI-powered systems that actually work* ⚡
+
+</div>
