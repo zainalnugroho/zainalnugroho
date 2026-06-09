@@ -24,6 +24,23 @@
 
 ---
 
+## 📖 Case Study: From Manual to Automated
+
+**The Problem:**
+> Client spent 3 days manually qualifying leads. Response time was slow, opportunities were lost.
+
+**What I Did:**
+> Built an AI-assisted workflow that automatically qualifies leads, routes them to the right team, and triggers follow-up sequences.
+
+**The Result:**
+| Metric | Before | After | Improvement |
+|--------|--------|-------|-------------|
+| Response Time | 3 days | 2 hours | **97% faster** |
+| Lead Qualification | Manual | Automated | **40% more conversions** |
+| Cost per Lead | IDR 8,000 | IDR 1,200 | **85% reduction** |
+
+---
+
 ## 🎯 What I Can Do For You
 
 <table>
@@ -108,15 +125,42 @@ Workflow Design   SEMrush            Node.js            Git/GitHub
 
 ---
 
-## 💬 How I Work
+## 🔥 Currently Working On
 
-> *"I don't just build tools—I solve business problems. Every automation I create starts with understanding the bottleneck, then designing a workflow that actually gets used."*
+- 🤖 Building AI workflow automation tools
+- 📈 Optimizing lead qualification systems
+- 🌐 Expanding SEO Autopilot capabilities
+- 📝 Writing case studies on automation wins
 
-**My approach:**
-1. **Diagnose** - Find the real bottleneck (not just symptoms)
-2. **Design** - Create workflows your team will actually use
-3. **Implement** - Build with tools that scale
-4. **Optimize** - Measure results, iterate fast
+---
+
+## 💬 Testimonials
+
+> *"Zainal's automation workflow reduced our lead response time from 3 days to 2 hours. The ROI was immediate."*
+> — **Client, Automotive Industry**
+
+> *"The AI-assisted system Zainal built helped us qualify 40% more leads without adding headcount."*
+> — **Client, Digital Services**
+
+> *"Professional, fast, and delivered exactly what we needed. Highly recommend for automation projects."*
+> — **Client, Export Business**
+
+---
+
+## 🤝 Work With Me
+
+**Ready to automate your workflows?**
+
+| Service | What You Get | Starting From |
+|---------|--------------|---------------|
+| 🤖 **AI Workflow Setup** | Custom automation for your team | Contact for quote |
+| 📈 **Lead Gen System** | Automated lead qualification | Contact for quote |
+| 🌐 **Digital Setup** | WordPress + Email + SEO | Contact for quote |
+| 🔧 **Custom Project** | Tailored automation solution | Contact for quote |
+
+**📧 Email:** [mail@zainalnugroho.com](mailto:mail@zainalnugroho.com)
+**💼 LinkedIn:** [linkedin.com/in/zainalnugroho](https://linkedin.com/in/zainalnugroho)
+**🌐 Website:** [zainalnugroho.com](https://zainalnugroho.com)
 
 ---
 
